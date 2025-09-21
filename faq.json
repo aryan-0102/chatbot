@@ -1,1 +1,27 @@
+[
+  {
+    "question": "What are the system capabilities and utility?",
+    "answer": "The system allows administrators to pull listings from online marketplaces and analyze them for compliance with the Legal Metrology Act. It can identify violations, find violators, and provide grounds for reprimands."
+  },
+  {
+    "question": "What is this system?",
+    "answer": "This system provides a framework to analyze online marketplace listings for compliance with the Department of Consumer Affairs' Legal Metrology Act (2009)."
+  },
+  {
+    "question": "How do I check reports?",
+    "answer": "With administrator login credentials, you can view reports in the Reports tab. Reports can be downloaded in Excel and PDF formats."
+  },
+  {
+    "question": "How do I gather information on a seller, Amazon, or Flipkart?",
+    "answer": "Use the Reports panel to filter data based on your preferences. Overall standings for Amazon and Flipkart are also available in interactive dashboards."
+  },
+  {
+    "question": "How do I process a violator or change their status?",
+    "answer": "In the Violation Panel, with proper access, you can change a violator's status from unprocessed to processed."
+  },
+  {
+    "question": "How do I check recently viewed reports or product lists?",
+    "answer": "Go to the Products section via the menu bar to see processed product history."
+  }
+]
 
